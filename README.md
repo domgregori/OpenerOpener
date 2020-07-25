@@ -7,7 +7,7 @@ Passes http:// and https:// links to the iOS app *Opener* (https://www.opener.li
 
 
 ### The reason:
-I made this is that tweaks like BrowserChanger seem to overwrite Safari with your favorite browser. The problem with that is if you actually want to open something in Safari, you can't. This also adds the benefit of using a well maintain iOS app that has great link recognition to open link in appropriate apps.
+I made this because tweaks like BrowserChanger seem to overwrite Safari with your favorite browser. The problem with that is if you actually want to open something in Safari, you can't. This also adds the benefit of using a well maintain iOS app that has great link recognition to open link in appropriate apps.
 
 
 ### Requirements:
