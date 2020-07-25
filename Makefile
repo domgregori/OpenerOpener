@@ -3,7 +3,7 @@ INSTALL_TARGET_PROCESSES = SpringBoard
 include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = OpenerOpener
-OpenerOpener_FILES = HBLOOpenerOpenerHandler.m
+OpenerOpener_FILES = OPNOpenerOpenerHandler.m
 OpenerOpener_INSTALL_PATH = /Library/Opener
 OpenerOpener_EXTRA_FRAMEWORKS = Opener
 

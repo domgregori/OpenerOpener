@@ -1,9 +1,10 @@
 Package: com.domg.openeropener
 Name: OpenerOpener
 Depends: firmware (>= 5.0), mobilesubstrate, ws.hbang.libopener (>= 3.0)
-Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Opens links via app Opener
 Maintainer: domg
 Author: domg
 Section: Addons
+Version: 1.0.1-1+debug
+Installed-Size: 148
