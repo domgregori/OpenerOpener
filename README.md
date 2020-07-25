@@ -9,6 +9,7 @@ I made this is that tweaks like BrowserChanger seem to overwrite Safari with you
 
 ### Requirements:
 Opener from HASHBANG
+
 Opener from iOS Appstore (https://apps.apple.com/app/id989565871)
 
 
